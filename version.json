@@ -2,8 +2,8 @@
     {
         "version": "1.0.0",
         "showAds": true,
-        "aosRequiredUpdate": true,
-        "iosRequiredUpdate": true
+        "aosRequiredUpdate": false,
+        "iosRequiredUpdate": false
     },
     {
         "version": "1.0.1",

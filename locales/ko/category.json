@@ -1,50 +1,50 @@
 [
   {
     "key": "1",
-    "name": "Hot",
-    "label": "Hot",
+    "name": "BTS",
+    "label": "BTS",
     "src": "https://static.thenounproject.com/png/357665-200.png"
   },
   {
     "key": "2",
-    "name": "RealTime",
-    "label": "RealTime",
+    "name": "AESPA",
+    "label": "AESPA",
     "src": "https://static.thenounproject.com/png/5342619-200.png"
   },
   {
     "key": "3",
-    "name": "Game",
-    "label": "Game",
+    "name": "BLACKPINK",
+    "label": "BLACKPINK",
     "src": "https://static.thenounproject.com/png/4051862-200.png"
   },
   {
     "key": "4",
-    "name": "Sports",
-    "label": "Sports",
+    "name": "NewJeans",
+    "label": "NewJeans",
     "src": "https://static.thenounproject.com/png/4888415-200.png"
   },
   {
     "key": "5",
-    "name": "Music",
-    "label": "Music",
+    "name": "STAYC",
+    "label": "STAYC",
     "src": "https://static.thenounproject.com/png/6198215-200.png"
   },
   {
     "key": "6",
-    "name": "Fashion",
-    "label": "Fashion",
+    "name": "IVE",
+    "label": "IVE",
     "src": "https://static.thenounproject.com/png/3513464-200.png"
   },
   {
     "key": "7",
-    "name": "Cooking",
-    "label": "Cooking",
+    "name": "ITZY",
+    "label": "ITZY",
     "src": "https://static.thenounproject.com/png/2812421-200.png"
   },
   {
     "key": "8",
-    "name": "Talent",
-    "label": "Talent",
+    "name": "Kep1er",
+    "label": "Kep1er",
     "src": "https://static.thenounproject.com/png/5691482-200.png"
   }
 ]

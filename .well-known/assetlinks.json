@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.gptinfo.app",
+      "sha256_cert_fingerprints": [
+        "73:CB:E3:9C:E0:94:DA:D2:A7:45:19:93:D7:3D:C0:FB:BC:13:2D:16:5F:C6:AB:53:5E:39:D9:CB:F1:58:8C:67"
+      ]
+    }
+  }
+]

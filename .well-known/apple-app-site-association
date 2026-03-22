@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAM_ID.org.reactjs.native.example.rnproject",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
